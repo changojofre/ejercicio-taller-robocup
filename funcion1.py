@@ -1,4 +1,4 @@
-def pares(cadena):
+def pares(cadena): # Martu: Tal vez podrías poner un nombre más desscriptivo... :p
     inicio=0
     lista=[]
     if(len(cadena)%2==1):
@@ -9,5 +9,7 @@ def pares(cadena):
         inicio+=2
     return lista
 
-cadena="dabale arroz a la zorra del abad"
+cadena="hola"
 print(pares(cadena))
+
+# Martu: Excelente!!
