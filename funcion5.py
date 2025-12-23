@@ -5,3 +5,5 @@ def inverso(cadena):
 
 pipi="hola mundo"
 print(inverso(pipi))
+
+# Martu: Muy bien!

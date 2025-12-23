@@ -11,4 +11,8 @@ def mas_cercano(conjunto, numero):
     return mas_cercano
 
 datos = {4, 6, 9, 15, 12}
-print(mas_cercano(datos, 5))
+print(mas_cercano(datos, 10))
+
+# Martu: Revisar la lógica... hay un error de nombres en el for, que hace que se mezclen las variables individuales
+# de la lista con el valor que pasa como parámetro. Por eso el resultado no es el esperado. :p. Solucionando eso, el
+# ejercicio estaría perfecto!
