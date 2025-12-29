@@ -38,3 +38,5 @@ perro1.felizCumple()
 perro1.mostrar_info()
 
 perro1.alimentar(2) 
+
+# Martu: Muy bien! También podrías reemplazar el método mostrar_info con un método __str__ :)

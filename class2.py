@@ -2,7 +2,7 @@ class Circulo:
     def __init__(self, radio):
         self.radio = radio
         
-        self.pi = 3.1415
+        self.pi = 3.1415 # Martu: TIP! Podrías importar la librería math y usar math.pi (valor exacto)
 
     def calcular_area(self):
         return self.pi * (self.radio ** 2)
@@ -18,3 +18,5 @@ print(f"El área del círculo es: {area:.2f}")
 
 perimetro = circulo.calcular_perimetro()
 print(f"El perímetro del círculo es: {perimetro:.2f}")
+
+# Martu: Muy bien :)
