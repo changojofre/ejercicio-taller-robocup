@@ -5,3 +5,5 @@ with open("quijote.txt", encoding="utf-8", mode="rt") as archi, open("quijoteej1
 
         if not renglonVacio:
             salida.write(renglon)
+
+# Martu: Fijate qué pasa si ejecutás el programa, ¿qué sucede con el archivo de salida? Rehacer :p!!
