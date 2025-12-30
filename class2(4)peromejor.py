@@ -72,3 +72,8 @@ print (circulo(5))
 print (cuadrado(4))
 print (rectangulo(4,6))
 print (rombo(6,4,5))
+
+# Martu: Recordá que las clases se definen con mayúscula inicial! En cuanto a los polígonos, estos son un grupo de fiiguras
+# que tienen ciertas características en común, por lo que van a haber un par de figuras que sean subclases de Poligono 
+# (subclase de Figura). Rediseñar para agregar la clase Poligono y, también, revisar qué pasa con el cuadrado y el rectángulo,
+# ¿no son demasiado similares entre sí como para que alguna de esas clase herede a la otra? :)
