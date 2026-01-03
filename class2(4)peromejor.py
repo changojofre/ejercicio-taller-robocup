@@ -3,14 +3,14 @@ from abc import ABC, abstractmethod
 class figura(ABC):
     @abstractmethod
     def area(self):
-        pass
+        pass 
 
     @abstractmethod
     def perimetro(self):
         pass
     def __str__(self):
         return f"{self.__class__.__name__}: area={self.area():.2f}, perimetro={self.perimetro():.2f}"
-    
+    #el ejercicio 6 seria esto de arriba no?
 class circulo(figura):
     def __init__(self, radio):
         self.radio = radio
