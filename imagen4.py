@@ -20,3 +20,5 @@ cv2.imshow("original", img)
 cv2.imshow("cruzados", img4)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# Martu: Muy bien!!

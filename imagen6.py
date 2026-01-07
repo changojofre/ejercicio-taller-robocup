@@ -24,3 +24,5 @@ cv2.imshow("A", resA)
 cv2.imshow("B", resB)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# Martu: Bien!! Este sería ele ejercicio 5...

@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread("ppotrero.jpg")
+img = cv2.imread("potrero.jpg")
 h, w, c = img.shape
 img5 = img.copy()
 
@@ -21,3 +21,5 @@ cv2.imshow("Original", img)
 cv2.imshow("", img4)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# Martu: No comprendo bien a qué consigna corresponde el ejercicio...

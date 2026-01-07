@@ -16,3 +16,5 @@ cv2.imshow("original", img)
 cv2.imshow("potrero en rojo y verde", img1)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# Martu: Bien!!

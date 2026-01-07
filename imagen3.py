@@ -15,3 +15,5 @@ cv2.imshow("original", img)
 cv2.imshow("cuadros cruzados", img3)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# Martu: Perfecto!!

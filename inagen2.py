@@ -13,3 +13,5 @@ cv2.imshow("original", img)
 cv2.imshow("izq eb der", img2)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# Martu: Bien!!
